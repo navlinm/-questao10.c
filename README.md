@@ -6,6 +6,8 @@
 ◦ x for declarado como double? x=4092, x+1=409A, x+2=40A2 e x+3=40B6
 Implemente um programa de computador para testar estas suposições e compare as respostas oferecidas pelo programa com as respostas que você idealizou.
 
+#include <stdio.h>
+
 int main(){
   char x[4];
   int p;
