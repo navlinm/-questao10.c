@@ -4,6 +4,7 @@
 ◦ x for declarado como int? x=4092, x+1=4094, x+2=4096 e x+3=4098
 ◦ x for declarado como float? x=4092, x+1=4096, x+2=409A e x+3=409E
 ◦ x for declarado como double? x=4092, x+1=409A, x+2=40A2 e x+3=40B6
+
 Implemente um programa de computador para testar estas suposições e compare as respostas oferecidas pelo programa com as respostas que você idealizou.
 
 #include <stdio.h>
